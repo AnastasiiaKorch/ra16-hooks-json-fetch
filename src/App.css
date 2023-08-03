@@ -1,0 +1,33 @@
+body {
+    background-color: lavenderblush;
+}
+
+.titleHeader {
+    text-align: center;
+
+}
+
+.data {
+    border: 1px solid grey;
+    margin: 15px;
+    padding: 10px;
+    width: 250px;
+    text-align: center;
+
+}
+
+.data-error {
+    color: deeppink;
+}
+
+.wrapper {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+}
+
+.load {
+    color: deeppink;
+    font-weight: bold;
+
+}
